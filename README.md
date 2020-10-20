@@ -19,7 +19,7 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Machine Learning Engin
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
-A little more about me...  
+<h3>who am i?</h3>  
 
 ```javascript
 const thai = {
@@ -36,11 +36,11 @@ const thai = {
 }
 ```
 
-<h3>who am i?</h3>
+
 
 <img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
 
 
 -------
@@ -219,6 +219,7 @@ const thai = {
 -------
 ## Part 6
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 -------
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
