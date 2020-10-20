@@ -1,5 +1,3 @@
-## Part 1
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
@@ -39,14 +37,6 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-
-
-
-<img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
-
-
-
-
 -------
 ## Part 2
 
@@ -138,12 +128,12 @@ const thai = {
 -------
 ## Part 4
 
-**Checkout my പട്ടിഷോ board**
+**Checkout my professional Certificate and MOOCs**
 
 
 <!--START_SECTION:table-->
 <details>
-<summary>Hackathons List</summary>
+<summary>Professional Certificate List</summary>
 
 
 | Hackathon | Place | Role | Remark |
@@ -162,7 +152,7 @@ const thai = {
 
 </details>
 <details>
-<summary>Workshops & Talks List</summary>
+<summary>MOOCs List</summary>
 
 
 | Place | Topic | Month |
@@ -185,43 +175,12 @@ const thai = {
 
 <!--END_SECTION:table-->
 
--------
-## Part 5
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
--------
-## Part 6
-
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
--------
-
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-849-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
------
-
-
-
- 
-# MOOC
-
-Here are the MOOCs courses that I follow to take a professional certificate:
-
--    
--    
--   
-
-# Connect with me on Social Networks
-
-- Linkedin: https://www.linkedin.com/in/paolo-david/
-- Website: https://www.paolodavid.com
-
