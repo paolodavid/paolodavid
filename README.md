@@ -128,7 +128,7 @@ const thai = {
 -------
 ## Part 4
 
-**Checkout my professional Certificate and MOOCs**
+**Checkout my Professional Certificate and MOOCs**
 
 
 <!--START_SECTION:table-->
@@ -169,17 +169,15 @@ const thai = {
 | VJCET, Muvattupuzha | Git and GitHub(2 days) | Online |
 |MBCET, Thiruvanathapuram|Git and GitHub|Online|
 
-![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visits)
-
 </details>
 
 <!--END_SECTION:table-->
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
+![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visits)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-849-blue)
 
