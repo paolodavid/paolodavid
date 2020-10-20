@@ -123,9 +123,9 @@ const paolo = {
 <summary>Professional Certificate List</summary>
 
 
-| Hackathon | Place | Role | Remark |
+| Type | Entity | Title | Certificate |
 | :---: | :---: | :---: | :---: |
-| EthIndia 19 | Bangalore | Hacker | First Hackathon | 
+| MOOC | Coursera | IBM Data Science | https://bit.ly/2Hk3xJ7 | 
 | Dev-a-thon | MACE Kothamangalam | Mentor, Campus Expert 🚩 | Introduced Students to GitHub Student Developer Pack | 
 | .hack(); | KSUM Kochi | Mentor, Campus Expert 🚩 | Introduced Students to GitHub Student Developer Pack | 
 | GitHub Actions Hackathon | Online | Hacker | Built [TeleWire](https://github.com/athul/telewire). Got Swags | 
