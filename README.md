@@ -6,6 +6,20 @@
 
 Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Machine Learning Engineer 🚀 from Italy 🇮🇹. Actually Developer Consultant at <a href="https://www.capgemini.com">Capgemini</a> Toulouse 🇫🇷
 
+```javascript
+const paolo = {
+  code: [ Python, C, C++, HTML, CSS ],
+  tools: [Tensorflow, PyTorch, Keras, Flask, OpenCV, Heroku, Sci-kit Learn, NodeJS ],
+  areas: ["Data Science", "Machine Learning", "Deep Learning", "Artificial Intelligence"],
+  languages: {
+                        native: "Italian",
+                        fluent1: "English",
+                        fluent2: "French"
+                      },
+ challenge: "Trying to be always professional"
+}
+```
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/paolodavid" target="_blank">
@@ -22,22 +36,6 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Machine Learning Engin
 - <a href="https://www.mokkapps.de">🌐 Check out my website</a>
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
-
-## who am i? 
-
-```javascript
-const paolo = {
-  code: [ Python, C, C++, HTML, CSS ],
-  tools: [Tensorflow, PyTorch, Keras, Flask, OpenCV, Heroku, Sci-kit Learn, NodeJS ],
-  areas: ["Data Science", "Machine Learning", "Deep Learning", "Artificial Intelligence"],
-  languages: {
-                        native: "Italian",
-                        fluent1: "English",
-                        fluent2: "French"
-                      },
- challenge: "Trying to be always professional"
-}
-```
 
 ## 🗄 My Projects and Repo:
 
