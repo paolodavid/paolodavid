@@ -26,17 +26,16 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Machine Learning Engin
 ## who am i? 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+const paolo = {
+  code: [ Python, C, C++, HTML, CSS ],
+  tools: [Tensorflow, PyTorch, Keras, Flask, OpenCV, Heroku, Sci-kit Learn, NodeJS ],
+  areas: ["Data Science", "Machine Learning", "Deep Learning", "Artificial Intelligence"],
+  languages: {
+                        native: "Italian",
+                        fluent1: "English",
+                        fluent2: "French"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Trying to be always professional"
 }
 ```
 
