@@ -22,3 +22,9 @@ Here are the MOOCs courses that I follow to take a professional certificate:
 -    
 -    
 -   
+
+# Connect with me on Social Networks
+
+- Linkedin: https://www.linkedin.com/in/paolo-david/
+- Website: https://www.paolodavid.com
+
