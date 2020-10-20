@@ -4,17 +4,16 @@
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Machine Learning Engineer 🚀 from Italy. Actually Developer Consultant at <a href="https://www.capgemini.com">Capgemini</a> Toulouse 🇫🇷
+Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Machine Learning Engineer 🚀 from Italy 🇮🇹. Actually Developer Consultant at <a href="https://www.capgemini.com">Capgemini</a> Toulouse 🇫🇷
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- <a href="https://www.mokkapps.de">🌐 Check out my website</a>
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 
 <p><a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
-<p><a href="https://www.mokkapps.de">🌐 Check out my website</a></p>
 
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
