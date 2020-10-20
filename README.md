@@ -137,9 +137,27 @@ const paolo = {
 
 | Released by | Title | Certificate |
 | :---: | :---: | :---: |
-| DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt| 
-| DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt| 
-| DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt| 
+| DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt | 
+| DeepLearning.AI | Neural Networks and Deep Learning | https://bit.ly/35iy7ea | 
+| DeepLearning.AI | Natural Language Processing in TensorFlow | https://bit.ly/3dJf00T | 
+| DeepLearning.AI | Deep Neural Networks with PyTorch | https://bit.ly/3jfQ9Tx | 
+| DeepLearning.AI | Convolutional Neural Networks in TensorFlow | https://bit.ly/3jdhTIo | 
+| Google | Introduction to Git and GitHub | https://bit.ly/2HfPd45 | 
+| Google | Using Python to Interact with the Operating System | https://bit.ly/37syMMP | 
+| Google | Troubleshooting and Debugging Techniques | https://bit.ly/31oifFX |
+| Google | Configuration Management and the Cloud | hhttps://bit.ly/2T7tbDo | 
+| Google | Automating Real-World Tasks with Python | https://bit.ly/3o8ehLb | 
+| Google | Crash Course on Python | https://bit.ly/35vCAKT | 
+| IBM | Deep Neural Networks with PyTorch | https://bit.ly/3jfQ9Tx | 
+| IBM | Data Analysis with Python | https://bit.ly/2FInhW2 | 
+| IBM | Applied Data Science Capstone | https://bit.ly/34jteT7 | 
+| IBM | Data Visualization with Python | https://bit.ly/2IGRxli | 
+| IBM | Databases and SQL for Data Science | https://bit.ly/3kfx84P | 
+| IBM | What is Data Science? | https://bit.ly/35hKd7u | 
+| IBM | Data Science Methodology | https://bit.ly/37l1I9D | 
+| IBM | Machine Learning with Python | https://bit.ly/37nzeff | 
+| IBM | Python for Data Science and AI | https://bit.ly/34eJW63 | 
+| IBM | Tools for Data Science | https://bit.ly/3obEpFh | 
 
 </details>
 
