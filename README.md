@@ -115,7 +115,7 @@ const paolo = {
 
 ## Certificates
 
-**Checkout my Professional Certificate and MOOCs**
+**Checkout my Professional Certificates and MOOCs**
 
 
 <!--START_SECTION:table-->
@@ -132,22 +132,14 @@ const paolo = {
 
 </details>
 <details>
-<summary>MOOCs List</summary>
+<summary>MOOCs Courses List</summary>
 
 
-| Place | Topic | Month |
+| Released by | Title | Certificate |
 | :---: | :---: | :---: |
-| Jain University, Kochi | Intro to GitHub | Online| 
-| Model Engg. College, Kochi | AMA with CE | Online| 
-| TinkerHub Learn from Home | Go Basics | Online| 
-| KMEA Engg. College, Kochi | Intro to Git and GitHub | In Person| 
-| SOE - CUSAT, Kochi | Intro to GitHub Pages | Online| 
-| Malabar institute of Technology, Kannur | Intro to GitHub | Online| 
-| People In Tech - TinkerHub | AMA with CE | Online| 
-| HackCamp, Kochi | Introduction to GitHub | In Person|
-| Amal Jyothi, Kanjirapalli | OpenSource & GitHub| Online|
-| VJCET, Muvattupuzha | Git and GitHub(2 days) | Online |
-|MBCET, Thiruvanathapuram|Git and GitHub|Online|
+| DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt| 
+| DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt| 
+| DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt| 
 
 </details>
 
