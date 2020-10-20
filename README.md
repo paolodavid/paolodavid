@@ -146,7 +146,7 @@ const paolo = {
 | Google | Introduction to Git and GitHub | https://bit.ly/2HfPd45 | 
 | Google | Using Python to Interact with the Operating System | https://bit.ly/37syMMP | 
 | Google | Troubleshooting and Debugging Techniques | https://bit.ly/31oifFX |
-| Google | Configuration Management and the Cloud | hhttps://bit.ly/2T7tbDo | 
+| Google | Configuration Management and the Cloud | https://bit.ly/2T7tbDo | 
 | Google | Automating Real-World Tasks with Python | https://bit.ly/3o8ehLb | 
 | Google | Crash Course on Python | https://bit.ly/35vCAKT | 
 | IBM | Deep Neural Networks with PyTorch | https://bit.ly/3jfQ9Tx | 
