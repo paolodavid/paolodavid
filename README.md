@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # MOOC
-
+Here are the MOOCs courses that I follow to take a professional certificate:
+-    
+-    
+-   
