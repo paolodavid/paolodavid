@@ -35,8 +35,8 @@ const paolo = {
 <br />
 
 - <a href="https://www.paolodavid.com">🌐 Check out my website</a>
-- 📝🇬🇧[Resume](https://www.paolodavid.com/wp-content/uploads/CV/Resume%20ENG.pdf)
-- 📝🇫🇷[Resume](https://www.paolodavid.com/wp-content/uploads/CV/Resume%20FRE.pdf)
+- 📝🇬🇧[CV/Resume](https://www.paolodavid.com/wp-content/uploads/CV/Resume%20ENG.pdf)
+- 📝🇫🇷[CV/Resume](https://www.paolodavid.com/wp-content/uploads/CV/Resume%20FRE.pdf)
 
 
 ## 🗄 My Projects and Repo:
