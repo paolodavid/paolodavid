@@ -38,12 +38,15 @@ const paolo = {
 - 📝🇬🇧[CV/Resume](https://www.paolodavid.com/wp-content/uploads/CV/Resume%20ENG.pdf)
 - 📝🇫🇷[CV/Resume](https://www.paolodavid.com/wp-content/uploads/CV/Resume%20FRE.pdf)
 
+<br />
 
 ## 🗄 My Projects and Repo:
 
 |*|Tools|Repo|Description|
 |---|---|---|---|
 | 📦  | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />   | [Master-Thesis-IBM-Chatbot-for-anamnesis](https://github.com/paolodavid/Master-Thesis-IBM-Chatbot-for-anamnesis) | Creation of a IBM chatbot using IBM Cloud Watson API for Speect Text recognition, to solve a anamnesis problem. |
+
+<br />
 
 ## 👨🏻‍💻 My Skill Set 
 
