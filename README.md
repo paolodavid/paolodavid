@@ -120,8 +120,7 @@ const thai = {
 
 <br/>  
 
--------
-## Part 4
+## Certificates
 
 **Checkout my Professional Certificate and MOOCs**
 
