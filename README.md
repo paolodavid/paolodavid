@@ -1,4 +1,21 @@
-### Hi there 👋
+##Part 1
+
+-------
+##Part 2
+
+-------
+##Part 3
+
+-------
+##Part 4
+
+-------
+##Part 5
+
+-------
+##Part 6
+
+-------
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -134,7 +151,7 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), a Machine LEarning Developer
 
 ------
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const thai = {
