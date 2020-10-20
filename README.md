@@ -1,27 +1,6 @@
-##Part 1
-
--------
-##Part 2
-
--------
-##Part 3
-
--------
-##Part 4
-
--------
-##Part 5
-
--------
-##Part 6
-
--------
+## Part 1
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
 
 Hi, I'm [Paolo David](https://www.paolodavid.com/), a Machine LEarning Developer 🚀 from Italy. Beside's programming, I enjoy eating food and traveling.
 
@@ -35,72 +14,46 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), a Machine LEarning Developer
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
----------------
 
 <p>Hi, I'm Michael Hoffmann. I'm a freelance software engineer from Germany with focus on Angular.</p>
 <p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 <p><a href="https://www.mokkapps.de">🌐 Check out my website</a></p>
 
-----------
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-**Checkout my പട്ടിഷോ board**
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<h3>who am i?</h3>
+
+<img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 
-<!--START_SECTION:table-->
-<details>
-<summary>Hackathons List</summary>
-
-
-| Hackathon | Place | Role | Remark |
-| :---: | :---: | :---: | :---: |
-| EthIndia 19 | Bangalore | Hacker | First Hackathon | 
-| Dev-a-thon | MACE Kothamangalam | Mentor, Campus Expert 🚩 | Introduced Students to GitHub Student Developer Pack | 
-| .hack(); | KSUM Kochi | Mentor, Campus Expert 🚩 | Introduced Students to GitHub Student Developer Pack | 
-| GitHub Actions Hackathon | Online | Hacker | Built [TeleWire](https://github.com/athul/telewire). Got Swags | 
-| OpenHack | KSUM Kochi | Volunteer, Mentor, Campus Expert 🚩 | Brainstorming 🌩 | 
-| Twilio-Dev Hackathon | Online | Hacker | Built a SMS Notifier with GitHub Action. Got Dev shop credits | 
-| Make-a-thon 2.0 | CUSAT, Kochi | Hacker | Team Effort⚡️ | 
-| HackCamp | KSUM Kochi | Hacker | Won 2nd Prize, built [P2Wiki](https://github.com/subins2000/p2wiki) with [Subin](https://github.com/subins2000) and [Pranav](https://github.com/pranavmodx) | 
-| Rookie Hacks - MLH | Online | Hacker | Built [Whats Our Weather](https://www.whatsourweather.live/) with [Subin](https://github.com/subins2000) and [Kiran](https://github.com/thetronjohnson) and won a category prize | 
-| MeenHacks | CE Kidangoor | Lead Organizer | ❤️ | 
-| Hack from Home - MLH | Online | Hacker | Built [vett.space](https://vett.space) with [Subin](https://github.com/subins2000) |
-
-</details>
-<details>
-<summary>Workshops & Talks List</summary>
-
-
-| Place | Topic | Month |
-| :---: | :---: | :---: |
-| Jain University, Kochi | Intro to GitHub | Online| 
-| Model Engg. College, Kochi | AMA with CE | Online| 
-| TinkerHub Learn from Home | Go Basics | Online| 
-| KMEA Engg. College, Kochi | Intro to Git and GitHub | In Person| 
-| SOE - CUSAT, Kochi | Intro to GitHub Pages | Online| 
-| Malabar institute of Technology, Kannur | Intro to GitHub | Online| 
-| People In Tech - TinkerHub | AMA with CE | Online| 
-| HackCamp, Kochi | Introduction to GitHub | In Person|
-| Amal Jyothi, Kanjirapalli | OpenSource & GitHub| Online|
-| VJCET, Muvattupuzha | Git and GitHub(2 days) | Online |
-|MBCET, Thiruvanathapuram|Git and GitHub|Online|
-
-![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visits)
-
-</details>
-
-<!--END_SECTION:table-->
-
---------
+-------
+## Part 2
 
 ### 🗄 My projects:
 
@@ -110,6 +63,17 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), a Machine LEarning Developer
 | 📦 | 570 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 -------
+## Part 3
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -138,52 +102,7 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), a Machine LEarning Developer
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-------
-
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
-
-------
-
-A little more about me...  
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
------
-
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-849-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
------
-
-  #### 👨🏻‍💻 Languages and Tools <br />
+ #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -199,28 +118,9 @@ const thai = {
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
-  -----
-
-<h3>who am i?</h3>
-
-<img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
-
 <h3>things i code with</h3>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" width="40px">
-
-
-<h3>things i am learning </h3>
-
-<br>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="40px">
-
------
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
------
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -270,7 +170,80 @@ const thai = {
 
 <br/>  
 
+-------
+## Part 4
+
+**Checkout my പട്ടിഷോ board**
+
+
+<!--START_SECTION:table-->
+<details>
+<summary>Hackathons List</summary>
+
+
+| Hackathon | Place | Role | Remark |
+| :---: | :---: | :---: | :---: |
+| EthIndia 19 | Bangalore | Hacker | First Hackathon | 
+| Dev-a-thon | MACE Kothamangalam | Mentor, Campus Expert 🚩 | Introduced Students to GitHub Student Developer Pack | 
+| .hack(); | KSUM Kochi | Mentor, Campus Expert 🚩 | Introduced Students to GitHub Student Developer Pack | 
+| GitHub Actions Hackathon | Online | Hacker | Built [TeleWire](https://github.com/athul/telewire). Got Swags | 
+| OpenHack | KSUM Kochi | Volunteer, Mentor, Campus Expert 🚩 | Brainstorming 🌩 | 
+| Twilio-Dev Hackathon | Online | Hacker | Built a SMS Notifier with GitHub Action. Got Dev shop credits | 
+| Make-a-thon 2.0 | CUSAT, Kochi | Hacker | Team Effort⚡️ | 
+| HackCamp | KSUM Kochi | Hacker | Won 2nd Prize, built [P2Wiki](https://github.com/subins2000/p2wiki) with [Subin](https://github.com/subins2000) and [Pranav](https://github.com/pranavmodx) | 
+| Rookie Hacks - MLH | Online | Hacker | Built [Whats Our Weather](https://www.whatsourweather.live/) with [Subin](https://github.com/subins2000) and [Kiran](https://github.com/thetronjohnson) and won a category prize | 
+| MeenHacks | CE Kidangoor | Lead Organizer | ❤️ | 
+| Hack from Home - MLH | Online | Hacker | Built [vett.space](https://vett.space) with [Subin](https://github.com/subins2000) |
+
+</details>
+<details>
+<summary>Workshops & Talks List</summary>
+
+
+| Place | Topic | Month |
+| :---: | :---: | :---: |
+| Jain University, Kochi | Intro to GitHub | Online| 
+| Model Engg. College, Kochi | AMA with CE | Online| 
+| TinkerHub Learn from Home | Go Basics | Online| 
+| KMEA Engg. College, Kochi | Intro to Git and GitHub | In Person| 
+| SOE - CUSAT, Kochi | Intro to GitHub Pages | Online| 
+| Malabar institute of Technology, Kannur | Intro to GitHub | Online| 
+| People In Tech - TinkerHub | AMA with CE | Online| 
+| HackCamp, Kochi | Introduction to GitHub | In Person|
+| Amal Jyothi, Kanjirapalli | OpenSource & GitHub| Online|
+| VJCET, Muvattupuzha | Git and GitHub(2 days) | Online |
+|MBCET, Thiruvanathapuram|Git and GitHub|Online|
+
+![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visits)
+
+</details>
+
+<!--END_SECTION:table-->
+
+-------
+## Part 5
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+-------
+## Part 6
+
+-------
+
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-849-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 -----
+
+
 
  
 # MOOC
