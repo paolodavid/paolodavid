@@ -129,6 +129,7 @@ const paolo = {
 
 | Type | Entity | Title | Certificate |
 | :---: | :---: | :---: | :---: |
+| MOOC | Coursera | DeepLearning.AI TensorFlow Developer | https://bit.ly/2HlEfKz | 
 | MOOC | Coursera | IBM Data Science | https://bit.ly/2Hk3xJ7 | 
 | MOOC | Coursera | Google IT Automation with Python | https://bit.ly/2HqqolS | 
 | MOOC | Coursera | IBM Introduction to Data Science | https://bit.ly/3jgNgBC | 
@@ -141,6 +142,7 @@ const paolo = {
 
 | Released by | Title | Certificate |
 | :---: | :---: | :---: |
+| DeepLearning.AI | Sequences, Time Series and Prediction | https://bit.ly/37tE8Ye | 
 | DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt | 
 | DeepLearning.AI | Neural Networks and Deep Learning | https://bit.ly/35iy7ea | 
 | DeepLearning.AI | Natural Language Processing in TensorFlow | https://bit.ly/3dJf00T | 
