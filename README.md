@@ -45,6 +45,7 @@ const paolo = {
 |*|Tools|Repo|Description|
 |---|---|---|---|
 | 📦  | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />   | [Master-Thesis-IBM-Chatbot-for-anamnesis](https://github.com/paolodavid/Master-Thesis-IBM-Chatbot-for-anamnesis) | Creation of a IBM chatbot using IBM Cloud Watson API for Speect Text recognition, to solve a anamnesis problem. |
+| 📦  | <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> | [MOOC-Coursera-IBM-Python-for-Data-Science-and-AI](https://github.com/paolodavid/MOOC-Coursera-IBM-Data-Science-Notebooks) | Notebooks for the MOOC Coursera IBM Data Science |
 
 <br />
 
