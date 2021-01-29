@@ -146,6 +146,7 @@ const paolo = {
 
 | Released by | Title | Certificate |
 | :---: | :---: | :---: |
+| DeepLearning.AI | Natural Language Processing with Classification and Vector Spaces | https://bit.ly/3t7bswC | 
 | DeepLearning.AI | Sequences, Time Series and Prediction | https://bit.ly/37tE8Ye | 
 | DeepLearning.AI | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | https://bit.ly/2TayLVt | 
 | DeepLearning.AI | Neural Networks and Deep Learning | https://bit.ly/35iy7ea | 
