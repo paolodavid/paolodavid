@@ -146,6 +146,7 @@ const paolo = {
 
 | Released by | Title | Certificate |
 | :---: | :---: | :---: |
+| DeepLearning.AI | Natural Language Processing with Sequence Models | https://bit.ly/3qA9lzB | 
 | DeepLearning.AI | Natural Language Processing with Probabilistic Models | https://bit.ly/3tH5z9G | 
 | DeepLearning.AI | Natural Language Processing with Classification and Vector Spaces | https://bit.ly/3t7bswC | 
 | DeepLearning.AI | Sequences, Time Series and Prediction | https://bit.ly/37tE8Ye | 
