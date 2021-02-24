@@ -133,6 +133,7 @@ const paolo = {
 
 | Type | Entity | Title | Certificate |
 | :---: | :---: | :---: | :---: |
+| MOOC | Coursera | DeepLearning.AI Natural Language Processing | https://bit.ly/3pKD9bC |
 | MOOC | Coursera | DeepLearning.AI TensorFlow Developer | https://bit.ly/2HlEfKz | 
 | MOOC | Coursera | IBM Data Science | https://bit.ly/2Hk3xJ7 | 
 | MOOC | Coursera | Google IT Automation with Python | https://bit.ly/2HqqolS | 
