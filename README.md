@@ -148,6 +148,7 @@ const paolo = {
 
 | Released by | Title | Certificate |
 | :---: | :---: | :---: |
+| IBM | Introduction to Containers w/ Docker, Kubernetes & OpenShift | https://bit.ly/38IpMmK | 
 | DeepLearning.AI | Natural Language Processing with Attention Models | https://bit.ly/3btccUA | 
 | DeepLearning.AI | Natural Language Processing with Sequence Models | https://bit.ly/3qA9lzB | 
 | DeepLearning.AI | Natural Language Processing with Probabilistic Models | https://bit.ly/3tH5z9G | 
