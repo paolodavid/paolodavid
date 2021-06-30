@@ -10,7 +10,7 @@ Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Computer Vision Engine
 const paolo = {
   code: [ Python, C, C++, HTML, CSS ],
   tools: [Tensorflow, PyTorch, Keras, Flask, OpenCV, Heroku, Sci-kit Learn, NodeJS ],
-  areas: ["Data Science", "Computer Vision, ""Machine Learning", "Deep Learning", "Artificial Intelligence"],
+  areas: ["Data Science", "Computer Vision", "Machine Learning", "Deep Learning", "Artificial Intelligence"],
   languages: {
                         native: "Italian",
                         fluent1: "English",
