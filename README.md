@@ -4,13 +4,13 @@
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Machine Learning Engineer 🚀 from Italy 🇮🇹. Actually Computer Vision Engineer at SII Group, Toulouse 🇫🇷
+Hi, I'm [Paolo David](https://www.paolodavid.com/), I'm a Computer Vision Engineer 🚀 from Italy 🇮🇹. Actually I'm working at SII Group, Toulouse 🇫🇷
 
 ```javascript
 const paolo = {
   code: [ Python, C, C++, HTML, CSS ],
   tools: [Tensorflow, PyTorch, Keras, Flask, OpenCV, Heroku, Sci-kit Learn, NodeJS ],
-  areas: ["Data Science", "Machine Learning", "Deep Learning", "Artificial Intelligence"],
+  areas: ["Data Science", "Computer Vision, ""Machine Learning", "Deep Learning", "Artificial Intelligence"],
   languages: {
                         native: "Italian",
                         fluent1: "English",
